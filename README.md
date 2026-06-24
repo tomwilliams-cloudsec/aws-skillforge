@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⬡ AWS SkillForge
 
 > **My personal AWS learning hub** — certifications, hands-on projects, curated resources, and a cloud challenge generator. Hosted on S3 as a static site.
@@ -168,3 +169,6 @@ All user data (practiced services, projects, challenge history) is stored in **b
 ---
 
 *Built by Tom · Cert to Salary · Hosted on AWS S3*
+=======
+# aws-skillforge
+>>>>>>> 4fbb8e56927de993ce1728ab1db549f6b88b562a
